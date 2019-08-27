@@ -68,9 +68,10 @@ const shop_layout = (
   <header>
     <Topbar />
     <Navig />
-    <Image />
   </header>
-
+  <content>
+    <Image />
+  </content>
 );
 
 
