@@ -65,7 +65,11 @@ const Image = () => (
 const ButtonBar = () => (
 
 <div className = "button_bar">
-
+  <button clasName = "product"><p>All</p></button>
+  <button clasName = "product"><p>Vegetables</p></button>
+ <button clasName = "product"><p>Fruit</p></button>
+  <button clasName = "product"><p>Juice</p></button>
+  <button clasName = "product"><p>Dried</p></button>
 </div>
 
 
