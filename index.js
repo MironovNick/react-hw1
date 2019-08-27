@@ -56,9 +56,18 @@ const Navig = () => (
 const Image = () => (
 
   <div className="main_img">
-    <p></p>
-    <h1></h1>
+    <p>home products</p>
+    <h1>products</h1>
   </div>
+
+);
+
+const ButtonBar = () => (
+
+<div className = "button_bar">
+
+</div>
+
 
 );
 
@@ -72,6 +81,7 @@ const shop_layout = (
     </header>
     <content>
       <Image />
+      <ButtonBar />
     </content>
   </div>
 );
