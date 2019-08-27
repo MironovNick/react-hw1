@@ -27,11 +27,9 @@ const Topbar = () => (
 
   <div className="container">
     <div className="topbar">
-
-        <div className = "row"><i></i><p>+ 1235 2355 98</p></div>
-       <div className = "row"> <i></i><p>YOUREMAIL@EMAIL.COM</p></div>
-        <div className = "row"><p>3-5 BUSINESS DAYS DELIVERY & FREE RETURNS</p></div>
-
+      <div className = "row"><i></i><p>+ 1235 2355 98</p></div>
+      <div className = "row"> <i></i><p>YOUREMAIL@EMAIL.COM</p></div>
+      <div className = "row"><p>3-5 BUSINESS DAYS DELIVERY & FREE RETURNS</p></div>
     </div>
   </div>  
 
@@ -67,7 +65,7 @@ const ButtonBar = () => (
 <div className = "button_bar">
   <button clasName = "product"><p>All</p></button>
   <button clasName = "product"><p>Vegetables</p></button>
- <button clasName = "product"><p>Fruit</p></button>
+  <button clasName = "product"><p>Fruit</p></button>
   <button clasName = "product"><p>Juice</p></button>
   <button clasName = "product"><p>Dried</p></button>
 </div>
