@@ -65,15 +65,16 @@ const Image = () => (
 
 const shop_layout = (
 
-  <header>
-    <Topbar />
-    <Navig />
-  </header>
-  <content>
-    <Image />
-  </content>
+  <div>
+    <header>
+      <Topbar />
+      <Navig />
+    </header>
+    <content>
+      <Image />
+    </content>
+  </div>
 );
-
 
 
 
