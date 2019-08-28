@@ -86,7 +86,7 @@ const shop_layout = (
       <ButtonBar />
     </content>
   </div>
-);
+);*/
 
 
 
