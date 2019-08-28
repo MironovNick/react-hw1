@@ -77,16 +77,23 @@ const ButtonBar = () => (
 const shop_layout = (
 
   <div>
+
     <header>
+
       <Topbar />
       <Navig />
     </header>
+
     <content>
+
       <Image />
       <ButtonBar />
+
     </content>
+
   </div>
-);*/
+  
+);
 
 
 
